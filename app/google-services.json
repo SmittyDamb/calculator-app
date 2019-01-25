@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "537315081322",
+    "firebase_url": "https://calculatorapp-91e22.firebaseio.com",
+    "project_id": "calculatorapp-91e22",
+    "storage_bucket": "calculatorapp-91e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537315081322:android:cdb4f30b800a39a6",
+        "android_client_info": {
+          "package_name": "remindme.appsorx.com.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537315081322-vnjn49dsakj7lu081k2khvffkr3ge6hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBSSB6m6pZNtX2rlmhopLQKiIDRV9syfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
